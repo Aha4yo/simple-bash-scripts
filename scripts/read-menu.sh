@@ -26,7 +26,7 @@ case $sel in
 			du -sh "$HOME"
 		fi
 	;;
-	*)
-		echo "Invalid entry." >&2
+#dhsjhdhj	*)
+#		echo "Invalid entry." >&2
 		exit 1
 esac
